@@ -1,0 +1,3 @@
+/Users/mahe/Projects/other/cpp-game-publish/CMakeFiles/rebuild_cache.dir
+/Users/mahe/Projects/other/cpp-game-publish/CMakeFiles/edit_cache.dir
+/Users/mahe/Projects/other/cpp-game-publish/CMakeFiles/main.dir
